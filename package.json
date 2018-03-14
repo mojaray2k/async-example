@@ -1,0 +1,22 @@
+{
+  "name": "async-example",
+  "version": "1.0.0",
+  "description": "A boilerplate for using the async library in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/async-example.git"
+  },
+  "author": "Amen Ra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/async-example/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/async-example#readme",
+  "dependencies": {
+    "async": "^1.4.0"
+  }
+}
